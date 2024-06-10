@@ -90,10 +90,7 @@ html {
 ul {
     padding-left: 0px;
     opacity: 0.8;
-}
-
-li::marker {
-    content: "";
+    list-style-type: none;
 }
 
 .attribution {
