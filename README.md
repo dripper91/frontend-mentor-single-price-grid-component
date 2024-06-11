@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-pricing-card-component-using-flexbox-g8eVrpLMwh)
+- Live Site URL: [Add live site URL here](https://dripper91.github.io/frontend-mentor-single-price-grid-component/)
 
 ## My process
 
